@@ -2,7 +2,6 @@ package main
 
 //Go doesnt compile if you have unused imports
 import (
-    "fmt"
 
 )
 
